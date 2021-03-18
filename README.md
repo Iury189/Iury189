@@ -5,10 +5,11 @@
 > 
 
 ### Linguagens e ferramentas :computer: <h3>
- * PHP
- * SQL
+ * C#
  * Java
  * Javascript
+ * PHP
+ * SQL
 
 ### Painel de linguagens (Meu repositório) :bar_chart: <h3>
 <p>
