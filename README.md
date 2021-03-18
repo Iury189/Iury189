@@ -4,12 +4,15 @@
 > Meu nome é **Iury Fernandes**, atualmente estou cursando o curso superior em [Análise e Desenvolvimento de Sistemas](https://ifbaiano.edu.br/portal/ads-guanambi/) no [Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/).
 > 
 
-### Linguagens e ferramentas :computer: <h3>
+### Linguagens e ferramentas :man_technologist: <h3>
  * C#
  * Java
  * Javascript
  * PHP
  * SQL
+
+### Redes sociais :link: <h3>
+ * [LinkedIn](www.linkedin.com/in/iury-fernandes-3594b7190)
 
 ### Painel de linguagens (Meu repositório) :bar_chart: <h3>
 <p>
