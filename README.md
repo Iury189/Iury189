@@ -12,7 +12,7 @@
  * SQL
 
 ### Redes sociais :link: <h3>
- * [LinkedIn](www.linkedin.com/in/iury-fernandes-3594b7190)
+ * <a href="www.linkedin.com/in/iury-fernandes-3594b7190" target="_blank"> LinkedIn </a>
 
 ### Painel de linguagens (Meu repositório) :bar_chart: <h3>
 <p>
