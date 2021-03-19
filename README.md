@@ -6,7 +6,6 @@
 
 ### Linguagens e ferramentas :man_technologist: <h3>
  * C#
- * Java
  * Javascript
  * PHP
  * SQL
