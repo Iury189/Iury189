@@ -2,7 +2,12 @@
 
 ### Sobre mim :bowtie: <h3>
 > Meu nome é **Iury Fernandes**, atualmente estou cursando o curso superior em [Análise e Desenvolvimento de Sistemas](https://ifbaiano.edu.br/portal/ads-guanambi/) no [Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/).
-> 
+>
+
+### Interesses profissionais :dart: <h3>
+* Desenvolvimento web (apenas back-end)
+* Análise de comportamente de usuário
+* Suporte em Tecnologia da Informação
 
 ### Linguagens e ferramentas :man_technologist: <h3>
  * C#
