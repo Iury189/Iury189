@@ -1,7 +1,7 @@
 <h1 align="center"> :wave: "Hello, World!" :wave: </h1>
 
 ### Sobre mim :bowtie: <h3>
-> Meu nome é **Iury Fernandes**, atualmente estou cursando o curso superior em [Análise e Desenvolvimento de Sistemas](https://ifbaiano.edu.br/portal/ads-guanambi/) no [Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/). Atualmente estou a procura de uma oprtunidade de estágio.
+> Meu nome é **Iury Fernandes**, atualmente estou cursando o curso superior em [Análise e Desenvolvimento de Sistemas](https://ifbaiano.edu.br/portal/ads-guanambi/) no [Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi](https://www.ifbaiano.edu.br/unidades/guanambi/). Atualmente estou a procura de uma oprtunidade de estágio e aberto a propostas profissionais de meu interesse.
 >
 
 ### Interesses profissionais :dart: <h3>
