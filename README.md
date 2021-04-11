@@ -10,8 +10,8 @@
 * Suporte em Tecnologia da Informação
 
 ### Linguagens e ferramentas :man_technologist: <h3>
+ * C#
  * Java
- * Javascript
  * PHP
  * SQL
 
