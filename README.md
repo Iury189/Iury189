@@ -9,7 +9,7 @@
 * Análise de comportamente de usuário
 * Suporte em Tecnologia da Informação
 
-### Linguagens de programação que conheço :man_technologist: <h3>
+### Linguagens e ferramentas :man_technologist: <h3>
  * C#
  * Java
  * PHP
