@@ -5,7 +5,6 @@
 >
 
 ### Interesses profissionais :dart: <h3>
-* Desenvolvimento web (apenas back-end)
 * Análise de comportamente de usuário
 * Suporte em Tecnologia da Informação
 
